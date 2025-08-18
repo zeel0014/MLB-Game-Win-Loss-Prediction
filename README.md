@@ -165,16 +165,6 @@ Top predictive features include:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/mlb-prediction-system](https://github.com/yourusername/mlb-prediction-system)
-
 ## 🙏 Acknowledgments
 
 - MLB Stats API for providing comprehensive baseball data
