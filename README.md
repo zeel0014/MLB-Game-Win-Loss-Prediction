@@ -30,9 +30,8 @@ mlb-project/
 ├── data fetch/           # API data extraction scripts
 ├── data clean/           # Data preprocessing notebooks
 ├── data marge/           # Data integration and merging
-├── train data/           # Model training and evaluation
-├── mlbenv/              # Python virtual environment
-└── README.md            # This file
+└── train data/           # Model training and evaluation
+ 
 ```
 
 ## 🚀 Getting Started
